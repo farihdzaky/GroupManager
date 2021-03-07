@@ -22,8 +22,8 @@ from haruka.modules.connection import connected
 
 PM_START = """Yo {}, my name is Zenitsu!⚡
 I'm A Telegram Bot Management Group ⚡ [.](https://telegra.ph/file/d9c97a37ed77ebdb9ddeb.jpg)
-Id You Have A Bug Or Question You Can Join At [Zenitsu](t.me/ZenitsuSupport)
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+Id You Have A Bug Or Question You Can Join At [Zenitsu](t.me/ZenitsuSupport) Update [Channel](ZenitsuUpdate)
+ Add me to a group by clicking [here](http://t.me/ZenitsuAgatsumaRobot?startgroup=true).
 """
 
 
