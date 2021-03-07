@@ -20,8 +20,8 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!⚡
-I'm A Telegram Bot Management Group ⚡ [^](https://telegra.ph/file/0d07ceb115b9647413905.jpg)
+PM_START = """Yo {}, my name is Zenitsu!⚡
+I'm A Telegram Bot Management Group ⚡ [.](https://telegra.ph/file/d9c97a37ed77ebdb9ddeb.jpg)
 Id You Have A Bug Or Question You Can Join At [Zenitsu](t.me/ZenitsuSupport)
  Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
 """
